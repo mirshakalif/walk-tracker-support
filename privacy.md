@@ -1,15 +1,17 @@
 # Walk Tracker Privacy Policy
 
-Effective 2 November 2026
+Effective 4 November 2026
 
-Walk Tracker records your walks and runs on your Apple Watch and shows their history on your
-watch and iPhone. This policy explains what the app uses and where it goes.
+Walk Tracker records your walks and runs on your Apple Watch, shows their history on your watch
+and iPhone, and lets you plan routes on your iPhone. This policy explains what the app uses and
+where it goes.
 
 ## The short version
 
 - No account, no ads, no analytics, no tracking.
 - Your workouts are stored on your own Apple Watch and iPhone. We never receive them.
-- Nothing is shared with third parties.
+- Nothing is shared with third parties. The one exception is route planning: it asks Apple Maps
+  for the walking way between the points you tap (see Planned routes).
 
 ## What the app uses, and why
 
@@ -23,8 +25,14 @@ read your date of birth, sex and weight to set heart rate zones and estimate cal
 workout, with its route, to Apple Health only when you switch Apple Health on for that workout.
 Data from Apple Health is never used for advertising, never sold, and never shared.
 
-**Location.** GPS is used during a workout to measure distance, record splits and draw the route.
-It isn't used at any other time.
+**Location.** On your Apple Watch, GPS is used during a workout to measure distance, record splits
+and draw the route. On your iPhone, your location is used only while you plan a route, to start
+the map where you are. It isn't used at any other time.
+
+**Planned routes.** Routes you plan are stored in the app on your iPhone. When a route follows
+paths, the points you tap are sent to Apple Maps to find the walking way between them, as in any
+app that uses Apple's maps; Apple's privacy policy covers that. Walk it sends a route's distance
+to your Apple Watch as your next goal, directly between your devices.
 
 **Motion.** The motion sensors count your steps and cadence during a workout.
 
