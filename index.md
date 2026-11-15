@@ -29,12 +29,20 @@ the watch's own heart rate takes over while the sensor is out of reach; with Sen
 heart rate waits for it. Choose Off for no heart rate in Walk Tracker. Workouts saved to Apple
 Health keep the watch's own.
 
-**How do I note something during a walk?** During a workout, swipe left from the main screen to
-the Note page, tap the microphone and say it; it stops after a few seconds of quiet, and the walk
-carries on. Or say "Hey Siri, note in Walk Tracker". To start a note with double tap, set
-Settings › Workout screens › Double tap to Note. Notes are on the walk's page in History, with
+**How do I note something during a walk?** During a workout, swipe right from the main screen:
+the note starts recording straight away, so just say it; it stops after a few seconds of quiet,
+or swipe back, and the walk carries on. Or say "Hey Siri, note in Walk Tracker". To start a note
+with double tap, set Settings › Notes › Double tap to Note. To talk into the headphones connected
+to your iPhone instead, choose Settings › Notes › Microphone › Headphones. On your iPhone, every
+note is under Notes on History. Notes are on the walk's page in History, with
 numbered pins on its route. Your iPhone writes voice notes out as text the next time you open
 Walk Tracker on it; Share all sends them to Notes or Messages.
+
+**How do I hear how I'm doing?** Set Settings › Notes or Alerts › Double tap to Update and double
+tap during a workout, or say "Hey Siri, how am I doing in Walk Tracker?". Settings › Alerts on
+your iPhone chooses what each alert says and when, and warns you when your pace, heart rate or
+cadence is off. Settings › Vibrations lets you feel each alert's tap, switch any off or make
+them stronger.
 
 **How do I add Walk Tracker to my watch face?** Open Walk Tracker on your watch once. Then touch
 and hold the watch face, tap Edit, swipe to the complications, tap a spot and choose Walk

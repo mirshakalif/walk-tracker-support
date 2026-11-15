@@ -36,8 +36,10 @@ app that uses Apple's maps; Apple's privacy policy covers that. Walk it sends a 
 to your Apple Watch as your next goal, directly between your devices.
 
 **Notes.** If you record a note during a workout, Walk Tracker uses your Apple Watch's microphone
-only while that note is recording. The recording is kept with the workout on your watch, and
-copied to Walk Tracker on your iPhone with the workout, directly between your devices. Your iPhone
+only while that note is recording, or, if you choose Headphones in Settings › Notes, your
+iPhone's microphone input from the headphones connected to it, only while that note is
+recording. The recording is kept with the workout on your watch or iPhone, and copied between
+Walk Tracker on your watch and iPhone with the workout, directly between your devices. Your iPhone
 writes it out as text with Apple's speech recognition on the iPhone itself: the recording isn't
 sent to Apple, to us or to anyone else for that. A language your iPhone can't recognise on its own
 stays a recording. A note you say to Siri is handled by Siri, as any Siri request is, under
