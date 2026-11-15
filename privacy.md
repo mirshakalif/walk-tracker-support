@@ -1,17 +1,18 @@
 # Walk Tracker Privacy Policy
 
-Effective 8 November 2026
+Effective 15 November 2026
 
 Walk Tracker records your walks and runs on your Apple Watch, shows their history on your watch
-and iPhone, and lets you plan routes on your iPhone. This policy explains what the app uses and
-where it goes.
+and iPhone, lets you plan routes on your iPhone, and keeps notes you make during a walk. This
+policy explains what the app uses and where it goes.
 
 ## The short version
 
 - No account, no ads, no analytics, no tracking.
 - Your workouts are stored on your own Apple Watch and iPhone. We never receive them.
-- Nothing is shared with third parties. The one exception is route planning: it asks Apple Maps
-  for the walking way between the points you tap (see Planned routes).
+- Nothing is shared with third parties. The exceptions are Apple's own services you choose to
+  use: route planning asks Apple Maps for the walking way between the points you tap (see
+  Planned routes), and a note you say to Siri is handled by Siri (see Notes).
 
 ## What the app uses, and why
 
@@ -34,6 +35,18 @@ paths, the points you tap are sent to Apple Maps to find the walking way between
 app that uses Apple's maps; Apple's privacy policy covers that. Walk it sends a route's distance
 to your Apple Watch as your next goal, directly between your devices.
 
+**Notes.** If you record a note during a workout, Walk Tracker uses your Apple Watch's microphone
+only while that note is recording. The recording is kept with the workout on your watch, and
+copied to Walk Tracker on your iPhone with the workout, directly between your devices. Your iPhone
+writes it out as text with Apple's speech recognition on the iPhone itself: the recording isn't
+sent to Apple, to us or to anyone else for that. A language your iPhone can't recognise on its own
+stays a recording. A note you say to Siri is handled by Siri, as any Siri request is, under
+Apple's privacy policy, and is kept with the workout as text. Notes and recordings are deleted
+with their workout.
+
+**Watch face.** Walk Tracker's complications show this week's distance and your last walk. The
+watch app keeps that short summary where its complications can read it, on your watch.
+
 **Motion.** The motion sensors count your steps and cadence during a workout.
 
 **Heart-rate sensors.** If you choose a Bluetooth heart-rate sensor in Settings on your Apple
@@ -41,13 +54,15 @@ Watch, such as a Whoop band with Heart Rate Broadcast on or a chest strap, the w
 it during workouts and uses its heart rate in place of the watch's own. Its readings are stored
 with your workouts like any other heart rate, on your own devices; they aren't saved to Apple
 Health and aren't sent anywhere else. The sensor's name is remembered on your watch so it can
-reconnect. Bluetooth is used for nothing else.
+reconnect. Bluetooth is used for nothing else. You can also choose to have no heart rate in Walk
+Tracker at all, in Settings.
 
 **Settings.** Your goals and preferences are stored in the app on your devices.
 
 ## Your choices
 
-You can turn off Health, Location, Motion or Bluetooth access at any time in the Settings app on
+You can turn off Health, Location, Motion, Bluetooth, Microphone or Speech Recognition access at
+any time in the Settings app on
 your iPhone or Apple Watch. Deleting Walk Tracker from a device deletes its workout history from that device.
 Workouts you saved to Apple Health stay there until you delete them in the Health app.
 
