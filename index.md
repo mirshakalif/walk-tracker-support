@@ -36,7 +36,16 @@ with double tap, set Settings › Notes › Double tap to Note. To talk into the
 to your iPhone instead, choose Settings › Notes › Microphone › Headphones. On your iPhone, every
 note is under Notes on History. Notes are on the walk's page in History, with
 numbered pins on its route. Your iPhone writes voice notes out as text the next time you open
-Walk Tracker on it; Share all sends them to Notes or Messages.
+Walk Tracker on it. Share all (or touch and hold a note) sends just the words, the words with
+the time and distance of each, or the voice recordings themselves.
+
+**Can I add the song I'm hearing to my Favourites?** Yes, if it's Apple Music playing on your
+iPhone. During a workout, turn the Digital Crown to Music and tap the star in the top-left
+corner. The first time, open Walk Tracker on your iPhone and allow Apple Music. Songs from
+other apps, or played from the watch itself, can't be added.
+
+**Can I skip the Pace & Effort page?** Yes. Switch Settings › Workout screens › Pace & Effort
+page off, on your watch or iPhone, and one swipe from the main screen takes you to Music.
 
 **How do I hear how I'm doing?** Set Settings › Notes or Alerts › Double tap to Update and double
 tap during a workout, or say "Hey Siri, how am I doing in Walk Tracker?". Settings › Alerts on

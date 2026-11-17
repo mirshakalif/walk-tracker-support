@@ -1,6 +1,6 @@
 # Walk Tracker Privacy Policy
 
-Effective 15 November 2026
+Effective 17 November 2026
 
 Walk Tracker records your walks and runs on your Apple Watch, shows their history on your watch
 and iPhone, lets you plan routes on your iPhone, and keeps notes you make during a walk. This
@@ -46,6 +46,13 @@ stays a recording. A note you say to Siri is handled by Siri, as any Siri reques
 Apple's privacy policy, and is kept with the workout as text. Notes and recordings are deleted
 with their workout.
 
+**Apple Music.** If you tap the star on the Music page during a workout, Walk Tracker on your
+iPhone reads which Apple Music song is playing there and asks Apple Music to add it to your
+Favourites. It needs your permission for Apple Music (Media & Apple Music), asked the first time.
+The song's Apple Music ID goes to Apple Music for that request only, under Apple's privacy policy;
+Walk Tracker doesn't keep it, doesn't read your library or listening history, and sends nothing
+to us or anyone else. Music from other apps isn't read at all.
+
 **Watch face.** Walk Tracker's complications show this week's distance and your last walk. The
 watch app keeps that short summary where its complications can read it, on your watch.
 
@@ -63,7 +70,7 @@ Tracker at all, in Settings.
 
 ## Your choices
 
-You can turn off Health, Location, Motion, Bluetooth, Microphone or Speech Recognition access at
+You can turn off Health, Location, Motion, Bluetooth, Microphone, Speech Recognition or Apple Music access at
 any time in the Settings app on
 your iPhone or Apple Watch. Deleting Walk Tracker from a device deletes its workout history from that device.
 Workouts you saved to Apple Health stay there until you delete them in the Health app.
