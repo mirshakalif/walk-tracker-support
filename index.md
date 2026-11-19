@@ -62,6 +62,28 @@ your iPhone you can do the same in the Watch app, under My Faces.
 start. Your watch works out the distance from your arm movement and stride; afterwards, tap the
 pencil next to the distance to correct it to what the treadmill showed.
 
+**How do I race my usual route?** Save it first: on your iPhone, open a walk on that route in
+History and tap Save as route, or plan one under Routes. Your iPhone sends your routes to your
+watch. When a walk follows one, after the first half kilometre your watch asks "Park loop?" (the
+route's name); tap Race it and each split shows how far ahead or behind your best you are.
+Settings › Routes chooses whether it asks, races without asking or never does, and whether you
+race your best, your average or your last time.
+
+**Can I follow or start a walk from my iPhone?** Yes. While a walk is going on your watch, open
+Walk Tracker on your iPhone, or look at the Lock Screen, to see it live and pause or end it. To
+start one, tap Start a walk on your watch on History, with your watch on your wrist and
+unlocked. The first time, allow Health for Walk Tracker on your iPhone.
+
+**How do I start music with my walk?** In Settings › Music, set Music at start to Carry on (what
+was last playing) or Playlist, and pick one. It plays through the Music app on your iPhone.
+Settings › Music › Music page chooses Walk Tracker's own page, with a big cover, or Apple's.
+
+**Can I set my own heart rate zones?** Yes. In Settings › Heart rate, choose My own and set
+where each zone starts. Show the zone's range puts it beside the zone during a workout.
+
+**Can I change the start sound?** Yes, in Settings › Start: a whistle, "Let's go", a bell, a horn,
+beeps, just a tap, or none, and the LET'S GO animation on or off.
+
 ## Privacy
 
 Read the [Privacy Policy](privacy).
