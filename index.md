@@ -98,6 +98,25 @@ a walk. Touch and hold one and choose Edit Widget for runs or the month.
 **Can I change the start sound?** Yes, in Settings › Start: a whistle, "Let's go", a bell, a horn,
 beeps, just a tap, or none, and the LET'S GO animation on or off.
 
+**How do I see last week, or an earlier one?** On your iPhone's Today tab, tap ‹ beside THIS
+WEEK to go back a week (or month, or year) at a time, or tap the title to pick one from a list.
+7 DAYS shows the last seven days up to today. Settings › Units › Week starts on sets the day your
+weeks begin.
+
+**Can I see the weather during a walk?** Yes. Put Weather in any field (on your iPhone, Settings ›
+Workout screens): it shows the temperature and conditions where you are, from Apple Weather,
+when your watch can reach the internet. Each walk keeps the weather at its start. Choose °C or °F
+in Settings › Units › Temperature.
+
+**How do I edit or delete a walk?** On your iPhone, swipe a walk in History: left to delete it,
+right to change it between walk and run or leave it out of your averages.
+
+**How do I delete a note?** In the Notes tab, swipe a note left, or tap Select on a walk's line
+to pick several of its notes. You can also swipe a note on a walk's own page.
+
+**What does double tap do on the Music page?** It skips to the next song. To make it pause and
+play instead, set Settings › Music › Double tap on the music page.
+
 ## Privacy
 
 Read the [Privacy Policy](privacy).

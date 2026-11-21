@@ -13,7 +13,8 @@ make during a walk. This policy explains what the app uses and where it goes.
 - Nothing is shared with third parties. The exceptions are Apple's own services you choose to
   use: route planning asks Apple Maps for the walking way between the points you tap, and
   saving a walk as a route asks it for the place's name (see Routes); a note you say to Siri is
-  handled by Siri (see Notes).
+  handled by Siri (see Notes); and the Weather value asks Apple Weather for the weather where you
+  are (see Weather).
 
 ## What the app uses, and why
 
@@ -40,8 +41,15 @@ walks' distance, time and steps. The app keeps a short summary of the last few w
 on your iPhone that only it and its widgets can read; it never leaves the iPhone.
 
 **Location.** On your Apple Watch, GPS is used during a workout to measure distance, record splits
-and draw the route. On your iPhone, your location is used only while you plan a route, to start
+and draw the route, and to ask Apple Weather for the weather where you are (see Weather). On your iPhone, your location is used only while you plan a route, to start
 the map where you are. It isn't used at any other time.
+
+**Weather.** During a workout, your Apple Watch sends your current location to Apple Weather
+(Apple's WeatherKit) at the start and about every 10 minutes after (indoors, one rough location at
+the start), and receives the temperature and conditions there, for the Weather value and so each
+walk keeps the weather at its start. The location goes to Apple, not to us, and Apple uses it only
+to answer; see Apple's privacy policy. The weather kept with each walk stays on your devices.
+Weather data is provided by Apple Weather.
 
 **Routes.** Routes you plan, or save from a walk, are stored in the app on your iPhone. When a
 route follows paths, the points you tap are sent to Apple Maps to find the walking way between
