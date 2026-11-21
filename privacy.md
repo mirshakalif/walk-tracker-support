@@ -1,6 +1,6 @@
 # Walk Tracker Privacy Policy
 
-Effective 20 November 2026
+Effective 21 November 2026
 
 Walk Tracker records your walks and runs on your Apple Watch, shows their history on your watch
 and iPhone, shows a walk live on your iPhone, lets you plan and race routes, and keeps notes you
@@ -23,7 +23,8 @@ can see your history there. The copy travels directly between your devices using
 WatchConnectivity, not through any server of ours.
 
 **Apple Health.** With your permission, Walk Tracker reads your heart rate during workouts, and can
-read your date of birth, sex and weight to set heart rate zones and estimate calories. It saves a
+read your date of birth, sex and weight to set heart rate zones and estimate calories, and your
+resting heart rate (the average of the last 14 days) to work out heart rate zones from it. It saves a
 workout, with its route, to Apple Health only when you switch Apple Health on for that workout.
 On your iPhone, with your permission for workouts, Walk Tracker uses Apple Health for two things
 only: to show a walk going on your watch live on the iPhone (Apple's workout mirroring, directly
@@ -33,6 +34,10 @@ Data from Apple Health is never used for advertising, never sold, and never shar
 **Live Activity.** While a walk is going on your watch, your iPhone can show its time, distance
 and heart rate on the Lock Screen and in the Dynamic Island. It's made on the iPhone itself from
 what the watch sends it; nothing goes through any server.
+
+**Widgets.** Walk Tracker's widgets on your iPhone's Home Screen and Lock Screen show your recent
+walks' distance, time and steps. The app keeps a short summary of the last few weeks in a space
+on your iPhone that only it and its widgets can read; it never leaves the iPhone.
 
 **Location.** On your Apple Watch, GPS is used during a workout to measure distance, record splits
 and draw the route. On your iPhone, your location is used only while you plan a route, to start

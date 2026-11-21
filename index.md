@@ -71,15 +71,29 @@ race your best, your average or your last time.
 
 **Can I follow or start a walk from my iPhone?** Yes. While a walk is going on your watch, open
 Walk Tracker on your iPhone, or look at the Lock Screen, to see it live and pause or end it. To
-start one, tap Start a walk on your watch on History, with your watch on your wrist and
-unlocked. The first time, allow Health for Walk Tracker on your iPhone.
+start one, tap Start a walk on your watch on Today, or the Start a walk widget, with your watch
+on your wrist and unlocked. The first time, allow Health for Walk Tracker on your iPhone.
 
 **How do I start music with my walk?** In Settings › Music, set Music at start to Carry on (what
 was last playing) or Playlist, and pick one. It plays through the Music app on your iPhone.
 Settings › Music › Music page chooses Walk Tracker's own page, with a big cover, or Apple's.
 
-**Can I set my own heart rate zones?** Yes. In Settings › Heart rate, choose My own and set
-where each zone starts. Show the zone's range puts it beside the zone during a workout.
+**How are my heart rate zones worked out?** In Settings › Heart rate › Zones, choose how:
+Reserve (the usual way from 1.9, as WHOOP and Apple Watch do) works them out from your resting
+heart rate, Apple Health's average of the last 14 days or one you set; % Max from your max heart
+rate; Threshold from your lactate threshold heart rate; or My own, where you set where each zone
+starts. Zones 0–5 adds zone 0 below zone 1, as WHOOP shows it. Show the zone's range puts it
+beside the zone during a workout.
+
+**How do I end a walk?** Press and hold the workout screen to pause, then tap End. "Walk ended ·
+Undo" shows for 3 seconds in case you tapped it by mistake (Settings › Controls › Undo after
+End). A walk under 5 minutes, likely a test, offers Delete or Save anyway; Settings › After a
+workout › Short workouts changes the minutes. To clear old short ones, on your iPhone tap ••• on
+History, then Delete Walks Under 5 Minutes.
+
+**Are there widgets for my iPhone?** Yes. Touch and hold your Home Screen or Lock Screen, tap
+Edit, then Add Widget, and choose Walk Tracker: Walk totals with a bar a day, This week, or Start
+a walk. Touch and hold one and choose Edit Widget for runs or the month.
 
 **Can I change the start sound?** Yes, in Settings › Start: a whistle, "Let's go", a bell, a horn,
 beeps, just a tap, or none, and the LET'S GO animation on or off.
