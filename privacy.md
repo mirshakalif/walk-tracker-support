@@ -1,6 +1,6 @@
 # Walk Tracker Privacy Policy
 
-Effective 21 November 2026
+Effective 23 November 2026
 
 Walk Tracker records your walks and runs on your Apple Watch, shows their history on your watch
 and iPhone, shows a walk live on your iPhone, lets you plan and race routes, and keeps notes you
@@ -77,12 +77,26 @@ song's Apple Music ID goes to Apple Music for that request only, under Apple's p
 If you choose a playlist to start with your walk, Walk Tracker lists your iPhone's playlists for
 you to pick one, and remembers only the one you picked, in Settings. These need your permission
 for Media & Apple Music, asked the first time. Walk Tracker doesn't read your listening history,
-and sends nothing to us or anyone else. Music from other apps isn't read at all.
+and sends nothing to us or anyone else. Music from other apps isn't read at all. When music plays
+on your watch itself, the Music page shows Apple's own controls for it; Walk Tracker only checks
+whether other audio is playing on the watch, not what it is.
 
 **Watch face.** Walk Tracker's complications show this week's distance and your last walk. The
 watch app keeps that short summary where its complications can read it, on your watch.
 
-**Motion.** The motion sensors count your steps and cadence during a workout.
+**Motion.** The motion sensors count your steps and cadence during a workout. Walk Tracker also
+uses your steps per minute and pace to notice when you run during a walk (or walk during a run),
+and keeps where you did with the workout; you can switch this off in Settings › Workout screens ›
+Notice running. While a voice note records on your watch with Stop when wrist lowered on, the
+watch's motion sensor tells the app when your arm is lowered, and isn't read at any other time.
+None of this leaves your devices.
+
+**Spoken alerts.** Alerts read on your iPhone travel from your watch directly, and while a walk
+with alerts read there is going, Walk Tracker on your iPhone keeps its audio ready, playing
+silence, so it can read each one through your headphones. Each device keeps a short log of how
+recent alerts got to you (when, whether your iPhone was in reach, which headphones and voice). The
+log stays on your devices and goes nowhere unless you share it yourself from Settings › Alerts ›
+Alert log on your iPhone.
 
 **Heart-rate sensors.** If you choose a Bluetooth heart-rate sensor in Settings on your Apple
 Watch, such as a Whoop band with Heart Rate Broadcast on or a chest strap, the watch connects to

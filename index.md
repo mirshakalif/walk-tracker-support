@@ -117,6 +117,33 @@ to pick several of its notes. You can also swipe a note on a walk's own page.
 **What does double tap do on the Music page?** It skips to the next song. To make it pause and
 play instead, set Settings › Music › Double tap on the music page.
 
+**Why does the Music page sometimes show Apple's controls?** Walk Tracker's own Music page runs
+the Music app on your iPhone. When music plays on your watch itself, or your iPhone isn't with
+you, the page shows Apple's controls instead: watchOS lets only those control the watch's own
+music.
+
+**Can I change what a field shows during a walk?** Yes. On your iPhone, in Settings › Workout
+screens, tap Customise on a screen, tap a field and pick up to four values in order, then Done. On
+your watch the field starts on the first; tap it for the next. Holding still pauses.
+
+**Does Walk Tracker know when I run on a walk?** Yes. From your steps per minute and pace, your
+watch notices the stretches you run on a walk (and walk on a run). The figure runs while you do,
+and the Summary, History, the walk's page and Today show how far you ran. The walk stays a walk,
+in Apple Health too. Switch it off in Settings › Workout screens › Notice running.
+
+**Why didn't I hear an alert?** On your iPhone, Settings › Alerts › Alert log shows how each recent
+alert got to you, or why it didn't; share it with us if something looks wrong. With Read alerts on
+set to iPhone, your watch taps your wrist when your iPhone can't read one.
+
+**Why does my watch read alerts in a different voice?** Each device has its own voices. Your
+watch uses the voice chosen on your iPhone if it has it, otherwise its most natural one; choose
+another in the watch's Settings › Alerts › Voice on watch. For a more natural voice, download one
+on your watch in Settings › Accessibility › VoiceOver › Speech.
+
+**A voice note stops when I hold my watch up to talk.** From 1.11 a note ends only when you lower
+your arm, not when the screen dims at your mouth. Switch Settings › Notes › Stop when wrist
+lowered off to keep talking with your arm down.
+
 ## Privacy
 
 Read the [Privacy Policy](privacy).
